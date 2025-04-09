@@ -1,8 +1,8 @@
-🧥 E-Garments Portal Management System
-📌 About the Project
+🧥 **E-Garments Portal Management System**
+📌**About the Project**
 The E-Garments Portal Management System is a web-based platform that allows users to customize and order garments online. The system supports different user roles like Admin, Employee, Wholesaler, and User, each with their own functionality.
 
-💻 Tech Stack
+💻 **Tech Stack**
 Frontend: HTML, CSS, JavaScript, Bootstrap
 
 Backend: Python
@@ -11,7 +11,7 @@ Database: MySQL
 
 Tools: Git, GitHub
 
-🚀 Features
+🚀**Features**
 User registration and login
 
 Product customization (fabric, color, design)
@@ -24,7 +24,7 @@ Order confirmation and cancellation
 
 Employee module to process and deliver orders
 
-👩‍💻 Roles
+👩‍💻**Roles**
 User: Customize products, place orders, view order status
 
 Admin: Approve designs, set prices, manage stock
@@ -33,7 +33,7 @@ Employee: View confirmed orders and update delivery status
 
 Wholesaler: Place bulk orders with quantity limits
 
-📷 Screenshots
+📷 **Screenshots**
 
 **HOMEPAGE**
 ![image](https://github.com/user-attachments/assets/ef613ea1-f5b5-4cb4-afc8-10c6bb679604)
@@ -66,6 +66,13 @@ Wholesaler: Place bulk orders with quantity limits
 **LATEST LAUNCH**
 ![image](https://github.com/user-attachments/assets/f2573da2-ad9b-4d6f-962b-855b650da503)
 
+
+
+
+
+
+🙋‍♀️ **Developed By**
+**RamyaBharathi Sivakumar**
 
 
 
